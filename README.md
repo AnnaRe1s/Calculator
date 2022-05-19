@@ -11,8 +11,8 @@ with addition, subtraction, division, multiplication, and percentage operations.
 ### Install
 
 ```sh
- $ git clone
- $ cd
+ $ git clone https://github.com/AnnaRe1s/Calculator.git
+ $ cd Calculator
  $ npm install
  $ npm start
 ```
