@@ -3,6 +3,8 @@
 This app is a simple calculator
 with addition, subtraction, division, multiplication, and percentage operations.
 
+You can test my calculator [here!](calculadora-ar.netlify.app)
+
 ### Tools
 
 - React
