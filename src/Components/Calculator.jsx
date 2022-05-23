@@ -8,7 +8,6 @@ import {
   ContainerNumbers,
   ContainerOperaitors,
   ContainerSup,
-  H1,
   Buttons,
   ButtonDelete,
 } from "./Styles";
@@ -56,7 +55,7 @@ export const Calculator = () => {
     <Background>
       <Container>
         <ContainerResulte>
-          <span>{num}</span>
+          <p>{num}</p>
         </ContainerResulte>
         <ContainerSup>
           <ButtonDelete onClick={clear}>AC</ButtonDelete>

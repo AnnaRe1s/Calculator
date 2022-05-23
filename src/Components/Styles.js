@@ -78,13 +78,6 @@ export const ContainerOperaitors = styled.div`
   }
 `;
 
-/*Texts */
-
-export const H1 = styled.h1`
-  text-align: center;
-  font-weight: 500;
-`;
-
 /*Buttons */
 
 export const Buttons = styled.button`
