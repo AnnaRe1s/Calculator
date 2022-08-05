@@ -3,11 +3,11 @@
 This app is a simple calculator
 with addition, subtraction, division, multiplication, and percentage operations.
 
-You can see my calculator [here!](calculadora-ar.netlify.app)
+You can see my calculator [here!](https://calculadora-ar.netlify.app/)
 
 ### Tools
 
-- React
+- <img align="center" alt="Tathy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  React
 - StyledComponents
 
 ### Install
